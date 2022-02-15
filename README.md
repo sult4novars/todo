@@ -1,6 +1,7 @@
 # ToDo
 
-This is ToDo App. [You can poke here](https://todo-henna.vercel.app)
+This is ToDo App.
+[You can poke here and see the app.](https://todo-henna.vercel.app)
 
 ## How to run it
 
